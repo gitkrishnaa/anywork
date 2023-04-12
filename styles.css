@@ -1,0 +1,27 @@
+
+*{
+  margin: 0px;
+}
+
+#title{
+background-color: greenyellow;
+
+}
+#search_div{
+margin: 10px;
+width: 100%;
+/* background-color: aqua; */
+}
+#search{
+  width: 70%;
+  height: 25px;
+  border-radius: 100px;
+  border: 2px solid black;
+}
+#search_btn{
+  
+  width: 20%;
+  height: 32px;
+  border-radius: 100px;
+ border: none;
+  }
